@@ -4,6 +4,8 @@ A RESTful API backend for managing library operations, including user accounts, 
 
 Note: I am Currently working on this project, so it is not fully completed yet, but you can use it as a reference for your own projects.
 
+[![Library Management System](https://opengraph.githubassets.com/1/rahulkbharti/library_system_v2_frontend)](https://github.com/rahulkbharti/library_system_v2_frontend)
+
 ## Frontend Repository
 
 The frontend for this project is available at: [library_system_v2_frontend](https://github.com/rahulkbharti/library_system_v2_frontend)

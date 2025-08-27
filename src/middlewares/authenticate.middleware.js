@@ -30,7 +30,7 @@ const authenticate = async (req, res, next) => {
     req.user = decoded;
     req.organization_ids = decoded.organization_ids;
 
-    console.log("req.user:", req.user);
+    // console.log("req.user:", req.user);
     console.log("req.organization_ids:", req.organization_ids);
 
     next();
